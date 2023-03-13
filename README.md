@@ -12,6 +12,8 @@ Calculate the first total that sums all the 3 subject marks; and the second tota
 ### Step4:
 Based on the condition given, check whether the student is eligible for the engineering admission.
 ### Step5:
+Display the output for the input read from the user.
+### Step6:
 Stop the execution.
 ## PROGRAM:
 Program developed by : Shrruthilaya G
